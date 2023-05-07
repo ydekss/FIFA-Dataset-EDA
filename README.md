@@ -97,7 +97,9 @@ The data has following features and variables:
 ## The End
 These were some of the the insights that i came up with, but there are numerous and plenty more insights that you can find by exploring the workbook, feel free to look at the `ipnyb` file to explore more.
 
-![thank-you-messages-for-boss](https://blog.vantagecircle.com/content/images/size/w1000/2020/07/thank-you-messages-for-boss.png)
+<div align="center">
+  <img src="https://blog.vantagecircle.com/content/images/size/w1000/2020/07/thank-you-messages-for-boss.png">
+</div>
 
  
 
